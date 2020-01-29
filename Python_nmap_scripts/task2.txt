@@ -1,0 +1,24 @@
+Nmap scan results:
+---------------------------------------------------
+
+
+IPADDRESS: 192.168.105.1 HAS BEEN FOUND.
+Host name: _gateway
+The following port(s) are open!
+Search port: 80 has been found!
+TCP Ports: ['80', '22']
+
+IPADDRESS: 192.168.105.151 HAS BEEN FOUND.
+Host name: jesse-VirtualBox
+
+
+IPADDRESS: 192.168.105.102 HAS BEEN FOUND.
+No host name detected.
+The following port(s) are open!
+Search port: 80 has been found!
+TCP Ports: ['110', '143', '80', '22', '25', '443']
+
+Nmap command line we used to scan : nmap -oX - -p 0-520 -sV 192.168.105.0/24
+
+Scan attempt details: {'tcp': {'services': '0-520', 'method': 'connect'}}
+---------------------------------------------------

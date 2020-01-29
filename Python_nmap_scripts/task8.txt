@@ -1,0 +1,10 @@
+Nmap scan results:
+---------------------------------------------------
+
+
+IPADDRESS: 192.168.105.102 HAS BEEN FOUND.
+No host name detected.
+The following port(s) are open!
+Search port: 23 not found!
+TCP Ports: ['110', '143', '80', '22', '25', '443']
+---------------------------------------------------

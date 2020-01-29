@@ -1,0 +1,5 @@
+LIST OF IP ADDRESSES WITH PORT COUNTS IN DESCENDING ORDER:
+IP Address: 192.168.105.102 HAS BEEN FOUND. has 6 ports open.
+IP Address: 192.168.105.1 HAS BEEN FOUND. has 2 ports open.
+IP Address: 192.168.105.151 HAS BEEN FOUND. has 2 ports open.
+IP Address:  has 0 ports open.

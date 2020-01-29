@@ -1,0 +1,6 @@
+
+IPADDRESS: 192.168.105.1 HAS BEEN FOUND.
+Found our requested port from this list:  TCP Ports: ['80', '22']
+
+IPADDRESS: 192.168.105.102 HAS BEEN FOUND.
+Found our requested port from this list:  TCP Ports: ['110', '143', '80', '22', '25', '443']

@@ -1,0 +1,14 @@
+Nmap scan results:
+---------------------------------------------------
+
+1. ASSET FOUND WITH OPEN PORTS
+IPADDRESS: 192.168.105.1 HAS BEEN FOUND.
+Host name: _gateway
+The following port(s) are open!
+TCP Ports: ['80', '22']
+
+Host name: jesse-VirtualBox
+2. ASSET FOUND WITH OPEN PORTS
+IPADDRESS: 192.168.105.102 HAS BEEN FOUND.
+No host name detected.
+---------------------------------------------------
